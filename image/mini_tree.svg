@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.542" height="10.5" viewBox="0 0 7.542 10.5">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#231815;stroke-linecap:round;stroke-linejoin:round;stroke-width:.5px}
+        </style>
+    </defs>
+    <g id="prefix__레이어_1" data-name="레이어 1" transform="translate(-7.3 -3.75)">
+        <path id="prefix__패스_28" d="M14.592 16v1.046H7.55V16z" class="prefix__cls-1" data-name="패스 28" transform="translate(0 -7)"/>
+        <path id="prefix__패스_29" d="M14.648 18.54l-.45 3.942H8.477L8.04 18.54" class="prefix__cls-1" data-name="패스 29" transform="translate(-.286 -8.482)"/>
+        <path id="prefix__패스_30" d="M12.7 14s-.112-.367.113-.471.633-.271.662-.621-.521-.3-.521-.3-1.146.254-1.458-.038" class="prefix__cls-1" data-name="패스 30" transform="translate(-2.304 -4.999)"/>
+        <path id="prefix__패스_31" d="M17.512 13.2a.8.8 0 0 1-.437-.679.858.858 0 0 0-.325-.738c-.062-.05-.388-.212-.329-.3a.638.638 0 0 1 .521-.288c.292 0 .3.1.467 0" class="prefix__cls-1" data-name="패스 31" transform="translate(-5.17 -4.2)"/>
+        <path id="prefix__패스_32" d="M13 5.471a.479.479 0 0 0-.471-.417h-.05a.833.833 0 0 0 .071-.283.771.771 0 0 0-1.542 0 .684.684 0 0 0 0 .1.787.787 0 0 0-.446-.142.771.771 0 0 0-.762.771.738.738 0 0 0 .075.333.542.542 0 0 0-.254.313.729.729 0 0 0-.167-.021.775.775 0 1 0 .629 1.213.608.608 0 0 0 1.075-.392.571.571 0 0 0-.038-.2.417.417 0 0 0 .313-.283.517.517 0 0 0 .317.1h.108a.375.375 0 0 0 .375.375.379.379 0 0 0 .212-.067A.771.771 0 1 0 13 5.467z" class="prefix__cls-1" data-name="패스 32" transform="translate(-.65)"/>
+        <path id="prefix__패스_33" d="M11.72 12.37a.958.958 0 0 0 .592.067" class="prefix__cls-1" data-name="패스 33" transform="translate(-2.433 -4.883)"/>
+        <path id="prefix__패스_34" d="M15.488 10s-.083.671.138.633.175-.125.542-.208" class="prefix__cls-1" data-name="패스 34" transform="translate(-4.622 -3.5)"/>
+        <path id="prefix__패스_35" d="M14 11a1.642 1.642 0 0 1 .567-.121 1.15 1.15 0 0 1-.067-.8" class="prefix__cls-1" data-name="패스 35" transform="translate(-3.762 -3.547)"/>
+    </g>
+</svg>

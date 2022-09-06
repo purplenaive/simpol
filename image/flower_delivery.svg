@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4.391" height="10.5" viewBox="0 0 4.391 10.5">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#040000;stroke-linecap:round;stroke-linejoin:round;stroke-width:.5px}
+        </style>
+    </defs>
+    <g id="prefix__레이어_1" data-name="레이어 1" transform="translate(-11.075 -3.75)">
+        <path id="prefix__패스_36" d="M15.77 5.792A4.725 4.725 0 0 1 16.578 4a.358.358 0 0 0 .125.138S16.7 4 16.737 4s.1.2.167.146a.442.442 0 0 1 .1-.063s.6 2.333.079 2.75c0 0 .833-.246.029-2.758 0 0-.058.129-.087.092" class="prefix__cls-1" data-name="패스 36" transform="translate(-2.592)"/>
+        <path id="prefix__패스_37" d="M16.6 10.936a.725.725 0 0 1-.283-.2" class="prefix__cls-1" data-name="패스 37" transform="translate(-2.913 -3.932)"/>
+        <path id="prefix__패스_38" d="M18.088 10.9a1.379 1.379 0 0 1-.488.146" class="prefix__cls-1" data-name="패스 38" transform="translate(-3.659 -4.025)"/>
+        <path id="prefix__패스_39" d="M17.05 11.25s-.587 5.521.371 6.6h.242s-1.129-1.271-.4-6.554" class="prefix__cls-1" data-name="패스 39" transform="translate(-3.235 -4.229)"/>
+        <path id="prefix__패스_40" d="M17.71 7.056s0 .092.229.046c0 0 1.183.158.975-1.375-.225-1.667-.538-1.667-.538-1.667s.033.1-.042.063-.087 0-.087 0" class="prefix__cls-1" data-name="패스 40" transform="translate(-3.724 -.035)"/>
+        <path id="prefix__패스_41" d="M12.124 8.55s-1.471-.133-.417-2.992a.313.313 0 0 0 .15.1s-.033-.142 0-.133.142.171.192.1a.517.517 0 0 1 .079-.083s1.146 2.137.729 2.675c0 0 .758-.417-.6-2.687 0 0-.025.133-.067.108" class="prefix__cls-1" data-name="패스 41" transform="translate(0 -.892)"/>
+        <path id="prefix__패스_42" d="M14.252 12.08a1.4 1.4 0 0 1-.442.254" class="prefix__cls-1" data-name="패스 42" transform="translate(-1.449 -4.713)"/>
+        <path id="prefix__패스_43" d="M13.51 12.76s.675 5.517 1.871 6.35l.238-.054s-1.388-.983-1.867-6.3" class="prefix__cls-1" data-name="패스 43" transform="translate(-1.274 -5.11)"/>
+        <path id="prefix__패스_44" d="M13.722 8.372s0 .092.233 0c0 0 1.183-.113.637-1.562-.6-1.571-.9-1.5-.9-1.5s.058.088-.025.071-.083.037-.083.037" class="prefix__cls-1" data-name="패스 44" transform="translate(-1.314 -.763)"/>
+    </g>
+</svg>

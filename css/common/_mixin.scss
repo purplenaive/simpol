@@ -1,0 +1,68 @@
+@charset "UTF-8";
+@import "common/variables.scss";
+
+// extend 주로 특정 값이 달라지는 것 없이 똑같이 쓰일 때.
+.font_black {
+    font-family: 'NotoSansKrBlack', sans-serif;
+}
+.cf::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.pos_abs_center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.text_hidden_indent {
+    overflow: hidden;
+    text-indent: -999999px;
+}
+.text_ellipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.multi_ellipsis {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+}
+
+
+// function
+@function vwConv( $width, $px ) {
+    @return ($px / ($width * 0.01)) * 1vw;
+}
+
+// mixin
+@mixin flex {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -o-flex;
+}
+
+@mixin media_1440 {
+    @media screen and ( max-width: 1440px ) { @content; }
+}
+@mixin media_1280 {
+    @media screen and ( max-width: 1280px ) { @content; }
+}
+@mixin media_1024 {
+    @media screen and ( max-width: 1024px ) { @content; }
+}
+@mixin media_768 {
+    @media screen and ( max-width: 768px ) { @content; }
+}
+@mixin media_640 {
+    @media screen and ( max-width: 640px ) { @content; }
+}
+@mixin media_425 {
+    @media screen and ( max-width: 425px ) { @content; }
+}

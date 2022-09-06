@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="6.987" height="10.504" viewBox="0 0 6.987 10.504">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#231815;stroke-linecap:round;stroke-linejoin:round;stroke-width:.5px}
+        </style>
+    </defs>
+    <g id="prefix__레이어_1" data-name="레이어 1" transform="translate(-7.96 -3.729)">
+        <path id="prefix__패스_12" d="M9.272 14.85h5.413V16H8.21v-1.15h.745" class="prefix__cls-1" data-name="패스 12" transform="translate(0 -6.342)"/>
+        <path id="prefix__패스_13" d="M14.743 17.61l-.412 4.326H9.064l-.4-4.326" class="prefix__cls-1" data-name="패스 13" transform="translate(-.263 -7.953)"/>
+        <ellipse id="prefix__타원_5" cx=".691" cy=".679" class="prefix__cls-1" data-name="타원 5" rx=".691" ry=".679" transform="translate(9.967 4.948)"/>
+        <path id="prefix__패스_14" d="M13.145 5.626a.483.483 0 0 0 .183-.566.5.5 0 0 0-.512-.316.483.483 0 0 0-.229-.55.5.5 0 0 0-.6.079.5.5 0 0 0-.537-.283.491.491 0 0 0-.416.437.5.5 0 0 0-.579.137.483.483 0 0 0-.025.591.487.487 0 0 0 0 .941.483.483 0 0 0 .025.591.5.5 0 0 0 .587.129.5.5 0 0 0 .416.437A.5.5 0 0 0 12 6.98a.5.5 0 0 0 .6.079.483.483 0 0 0 .229-.55.5.5 0 0 0 .512-.316.483.483 0 0 0-.192-.566z" class="prefix__cls-1" data-name="패스 14" transform="translate(-1.087)"/>
+        <path id="prefix__패스_15" d="M16.62 10.811s1.17-2.436 2.985-2.881c0 0-1.949 1.665-2.115 2.881" class="prefix__cls-1" data-name="패스 15" transform="translate(-4.908 -2.304)"/>
+        <path id="prefix__패스_16" d="M14.57 11.36a5 5 0 0 1 .512 1.453" class="prefix__cls-1" data-name="패스 16" transform="translate(-3.712 -4.305)"/>
+        <path id="prefix__패스_17" d="M14.89 11.36a5 5 0 0 1 .512 1.453" class="prefix__cls-1" data-name="패스 17" transform="translate(-3.899 -4.305)"/>
+        <path id="prefix__패스_18" d="M12.009 14.036s-1.524-1.453-2.269.237c0 0 .974-.7 1.524-.237" class="prefix__cls-1" data-name="패스 18" transform="translate(-.893 -5.528)"/>
+    </g>
+</svg>

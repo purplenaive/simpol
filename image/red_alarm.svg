@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.068" height="24.021" viewBox="0 0 26.068 24.021">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#df5959}
+        </style>
+    </defs>
+    <g id="prefix__레이어_1" data-name="레이어 1" transform="translate(-2.908 -3.988)">
+        <path id="prefix__패스_60" d="M25.27 4a3.84 3.84 0 0 0-3.75 3 11.56 11.56 0 0 1 4.56 4.56A3.84 3.84 0 0 0 25.27 4z" class="prefix__cls-1" data-name="패스 60"/>
+        <path id="prefix__패스_61" d="M7.88 25.22L5.8 27.3a.41.41 0 0 0 .29.7h6.27a11.38 11.38 0 0 1-4.48-2.78z" class="prefix__cls-1" data-name="패스 61"/>
+        <path id="prefix__패스_62" d="M24.12 25.23A11.62 11.62 0 0 1 19.64 28h6.27a.41.41 0 0 0 .29-.7z" class="prefix__cls-1" data-name="패스 62"/>
+        <path id="prefix__패스_63" d="M10.48 7a3.83 3.83 0 1 0-4.56 4.56A11.56 11.56 0 0 1 10.48 7z" class="prefix__cls-1" data-name="패스 63"/>
+        <path id="prefix__패스_64" d="M16 6.21A10.9 10.9 0 1 0 26.9 17.1 10.9 10.9 0 0 0 16 6.21zm0 12.25a1.36 1.36 0 1 1 1.36-1.36A1.36 1.36 0 0 1 16 18.46z" class="prefix__cls-1" data-name="패스 64"/>
+    </g>
+</svg>

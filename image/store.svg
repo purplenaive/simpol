@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9.983" height="10.5" viewBox="0 0 9.983 10.5">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#231815;stroke-linecap:round;stroke-linejoin:round;stroke-width:.5px}
+        </style>
+    </defs>
+    <g id="prefix__업체_아이콘" data-name="업체 아이콘" transform="translate(-4.37 -3.75)">
+        <path id="prefix__사각형_12" d="M0 0H9.483V3.337H0z" class="prefix__cls-1" data-name="사각형 12" transform="translate(4.62 4.517)"/>
+        <path id="prefix__사각형_13" d="M0 0H1.921V1.946H0z" class="prefix__cls-1" data-name="사각형 13" transform="translate(4.62 11.633)"/>
+        <path id="prefix__패스_24" d="M6.1 4.517v-.271A.246.246 0 0 0 5.856 4a.242.242 0 0 0-.246.246v.271" class="prefix__cls-1" data-name="패스 24" transform="translate(-.577)"/>
+        <path id="prefix__선_4" d="M0 3.775L0 0" class="prefix__cls-1" data-name="선 4" transform="translate(5.524 7.858)"/>
+        <path id="prefix__패스_25" d="M5.61 27v.171a.242.242 0 0 0 .246.246.246.246 0 0 0 .246-.246V27" class="prefix__cls-1" data-name="패스 25" transform="translate(-.577 -13.417)"/>
+        <path id="prefix__선_5" d="M0 0L0 3.775" class="prefix__cls-1" data-name="선 5" transform="translate(5.032 7.858)"/>
+        <path id="prefix__선_6" d="M0 3.771L0 0" class="prefix__cls-1" data-name="선 6" transform="translate(13.199 7.858)"/>
+        <path id="prefix__패스_26" d="M25.7 27v.171a.242.242 0 0 1-.246.246.246.246 0 0 1-.246-.246V27" class="prefix__cls-1" data-name="패스 26" transform="translate(-12.011 -13.417)"/>
+        <path id="prefix__선_7" d="M0 0L0 3.762" class="prefix__cls-1" data-name="선 7" transform="translate(13.691 7.862)"/>
+        <path id="prefix__패스_27" d="M25.21 4.517v-.271A.246.246 0 0 1 25.456 4a.242.242 0 0 1 .246.246v.271" class="prefix__cls-1" data-name="패스 27" transform="translate(-12.011)"/>
+        <path id="prefix__사각형_14" d="M0 0H7.108V1.954H0z" class="prefix__cls-1" data-name="사각형 14" transform="translate(6.995 11.625)"/>
+        <path id="prefix__선_8" d="M0 0L0.45 0" class="prefix__cls-1" data-name="선 8" transform="translate(6.545 11.792)"/>
+        <path id="prefix__선_9" d="M0 0L0.45 0" class="prefix__cls-1" data-name="선 9" transform="translate(6.545 12.608)"/>
+    </g>
+</svg>

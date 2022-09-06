@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.207" height="19.207" viewBox="0 0 19.207 19.207">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#66b773;stroke-linecap:round;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="prefix__돋보기" transform="translate(.5 .5)">
+        <path id="prefix__패스_2" d="M18.91 11.455A7.455 7.455 0 1 1 11.455 4a7.455 7.455 0 0 1 7.455 7.455z" class="prefix__cls-1" data-name="패스 2" transform="translate(-4 -4)"/>
+        <path id="prefix__선_2" d="M5.273 5.273L0 0" class="prefix__cls-1" data-name="선 2" transform="translate(12.727 12.727)"/>
+    </g>
+</svg>

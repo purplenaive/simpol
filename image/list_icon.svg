@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.253" height="10.5" viewBox="0 0 12.253 10.5">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#231815;stroke-linecap:round;stroke-linejoin:round;stroke-width:.5px}
+        </style>
+    </defs>
+    <g id="prefix__list_icon" data-name="list icon" transform="translate(-3.75 -5.54)">
+        <circle id="prefix__타원_6" cx="1.033" cy="1.033" r="1.033" class="prefix__cls-1" data-name="타원 6" transform="translate(4 5.79)"/>
+        <rect id="prefix__사각형_9" width="7.81" height="2.067" class="prefix__cls-1" data-name="사각형 9" rx="1.033" transform="translate(7.943 5.79)"/>
+        <circle id="prefix__타원_7" cx="1.033" cy="1.033" r="1.033" class="prefix__cls-1" data-name="타원 7" transform="translate(4 9.757)"/>
+        <rect id="prefix__사각형_10" width="7.81" height="2.067" class="prefix__cls-1" data-name="사각형 10" rx="1.033" transform="translate(7.943 9.757)"/>
+        <circle id="prefix__타원_8" cx="1.033" cy="1.033" r="1.033" class="prefix__cls-1" data-name="타원 8" transform="translate(4 13.723)"/>
+        <rect id="prefix__사각형_11" width="7.81" height="2.067" class="prefix__cls-1" data-name="사각형 11" rx="1.033" transform="translate(7.943 13.723)"/>
+    </g>
+</svg>

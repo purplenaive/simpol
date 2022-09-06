@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.933" height="10.5" viewBox="0 0 7.933 10.5">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#231815;stroke-linecap:round;stroke-linejoin:round;stroke-width:.5px}
+        </style>
+    </defs>
+    <g id="prefix__레이어_1" data-name="레이어 1" transform="translate(-6.83 -3.75)">
+        <path id="prefix__패스_19" d="M13.6 16.887H9.28V15.82h3.55" class="prefix__cls-1" data-name="패스 19" transform="translate(-1.283 -6.895)"/>
+        <path id="prefix__패스_20" d="M15.25 19.259l-.3 3.129h-4.879L9.7 18.38" class="prefix__cls-1" data-name="패스 20" transform="translate(-1.528 -8.388)"/>
+        <path id="prefix__패스_21" d="M10.851 11.153A3.417 3.417 0 0 0 10.6 9.9c.383-.15 1.583-2.083-3.521-2.083 0 0 1.325 2.975 2.583 2.571a1.6 1.6 0 0 0 .779-.417 2.587 2.587 0 0 1 .225 1.137" class="prefix__cls-1" data-name="패스 21" transform="translate(0 -2.228)"/>
+        <path id="prefix__패스_22" d="M16.227 8.9a2.083 2.083 0 0 1 .533-1.871c-.292 0-2.171-1.754 3.063-3.029 0 0-.175 2.425-1.413 2.817s-1.483.217-1.483.217a2.108 2.108 0 0 0-.521 1.892" class="prefix__cls-1" data-name="패스 22" transform="translate(-5.31)"/>
+        <path id="prefix__패스_23" d="M17.088 13.719S17 12.54 18.1 12.59c.379-.533 2.988-.946 1.746 3.233 0 0-4-1.754-1.808-3.083 0 0-.7-.146-.833.979" class="prefix__cls-1" data-name="패스 23" transform="translate(-5.837 -4.819)"/>
+    </g>
+</svg>

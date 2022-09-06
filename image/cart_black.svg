@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.31" height="24.854" viewBox="0 0 24.31 24.854">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#040000;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="prefix__cart" transform="translate(-3.704 -3.646)">
+        <path id="prefix__패스_69" d="M4.34 9.84L7.76 23.9h16.48V9.84z" class="prefix__cls-1" data-name="패스 69"/>
+        <path id="prefix__패스_70" d="M27.66 4l-3.42 3.42v2.42" class="prefix__cls-1" data-name="패스 70"/>
+        <circle id="prefix__타원_9" cx="2.05" cy="2.05" r="2.05" class="prefix__cls-1" data-name="타원 9" transform="translate(5.71 23.9)"/>
+        <circle id="prefix__타원_10" cx="2.05" cy="2.05" r="2.05" class="prefix__cls-1" data-name="타원 10" transform="translate(22.19 23.9)"/>
+    </g>
+</svg>
